@@ -1,0 +1,1 @@
+@Component => Marks the class as a Spring Bean
